@@ -1,6 +1,6 @@
 cask "nanoswitch" do
-  version "1.3.0"
-  sha256 "1faf8a53a07c8c5ecd0808825ae8a175e62ce2e46f02d18680c710ce539fc4f2"
+  version "1.3.1"
+  sha256 "3f49ad42c1ac1dfebcc7a364ec39f8462f9b8179f03dda92c04634e7ad480076"
 
   url "https://github.com/LifeDesignStudio/NanoSwitch/releases/download/v#{version}/NanoSwitch.dmg"
   name "NanoSwitch"
